@@ -1,4 +1,3 @@
-
 # CRUD Application
 
 ## Overview
@@ -19,9 +18,3 @@ This application demonstrates the basic operations of Create, Read, Update, and 
    ```bash
    git clone https://github.com/SudhashiniEnugula406/CRUD_Applications.git
    cd CRUD_Applications
-# Technologies Used
-React: A JavaScript library for building user interfaces.
-
-
-
-JSON Server: Provides a full fake REST API for testing and prototyping.
