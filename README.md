@@ -1,4 +1,4 @@
-# CRUD Application
+# CRUD Operations
 
 ## Overview
 
@@ -18,3 +18,15 @@ This application demonstrates the basic operations of Create, Read, Update, and 
    ```bash
    git clone https://github.com/SudhashiniEnugula406/CRUD_Operations
    cd CRUD_Operations
+
+This should give a complete guide for installation and setup of your CRUD application.
+
+### What to add:
+- Installation of dependencies (`npm install`)
+- How to run the application (`npm start`)
+- Optionally, mention any extra setup if needed (e.g., backend setup, environment variables, etc.)
+
+# Technologies Used
+React: A JavaScript library for building user interfaces.
+JSON Server: Provides a full fake REST API for testing and prototyping.
+
