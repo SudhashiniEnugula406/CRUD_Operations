@@ -16,5 +16,5 @@ This application demonstrates the basic operations of Create, Read, Update, and 
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/SudhashiniEnugula406/CRUD_Applications.git
-   cd CRUD_Applications
+   git clone https://github.com/SudhashiniEnugula406/CRUD_Operations
+   cd CRUD_Operations
