@@ -28,5 +28,7 @@ This should give a complete guide for installation and setup of your CRUD applic
 
 # Technologies Used
 React: A JavaScript library for building user interfaces.
+
+
 JSON Server: Provides a full fake REST API for testing and prototyping.
 
