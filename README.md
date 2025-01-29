@@ -24,7 +24,7 @@ This should give a complete guide for installation and setup of your CRUD applic
 ### What to add:
 - Installation of dependencies (`npm install`)
 - How to run the application (`npm start`)
-- Optionally, mention any extra setup if needed (e.g., backend setup, environment variables, etc.)
+
 
 # Technologies Used
 React: A JavaScript library for building user interfaces.
